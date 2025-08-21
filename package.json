@@ -1,0 +1,20 @@
+{
+  "name": "common-workspace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev":"vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "quill": "^2.0.3",
+    "quill-cursors": "^4.0.4",
+    "y-quill": "^1.0.0",
+    "y-webrtc": "^10.3.0",
+    "yjs": "^13.6.24"
+  }
+}
